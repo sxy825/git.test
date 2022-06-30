@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("改dajkwhdlawbfdjlqwh");
         System.out.println("修dajkwhdlawbfdjlqwh");
         System.out.println("的dajkwhdlawbfdjlqwh");
+        System.out.println("代dajkwhdlawbfdjlqwh");
     }
 }
